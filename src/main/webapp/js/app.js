@@ -1,7 +1,7 @@
 'use strict';
 
-//var appContext = "http://localhost:8080" ;
-var appContext = "" ;
+var appContext = "http://localhost/" ;
+//var appContext = "" ;
 /* App Module */
 
 var dreamApp = angular.module('dreamApp', [
